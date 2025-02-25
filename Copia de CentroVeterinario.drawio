@@ -211,6 +211,11 @@
         <mxCell id="nVziZs_01863qSQMONBU-12" value="¿El usuario ha introducido datos?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="115" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nVziZs_01863qSQMONBU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nVziZs_01863qSQMONBU-15" target="nVziZs_01863qSQMONBU-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nVziZs_01863qSQMONBU-15" value="Elimina los datos introducidos por el usuario anteriormente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="620" y="740" width="120" height="60" as="geometry" />
         </mxCell>
@@ -251,6 +256,9 @@
         </mxCell>
         <mxCell id="nVziZs_01863qSQMONBU-27" value="Pide al usuario introducir un dato válido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVziZs_01863qSQMONBU-30" value="Limpia label" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
